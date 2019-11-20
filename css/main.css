@@ -1,0 +1,13 @@
+.introduction {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.skyScrapers {
+  background-attachment: fixed;
+  background-image: url('image_resources/showcase.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+}
